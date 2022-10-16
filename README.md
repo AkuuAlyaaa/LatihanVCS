@@ -16,7 +16,8 @@ KELAS   : TI.22.B1
    ![ss](https://user-images.githubusercontent.com/115520278/195978419-467be80e-130a-4550-bd18-c35f08951c19.PNG)
 
 4. Klik perintah "git init" untuk membuat repository lokal,lalu buat file readme menggunakan perintah "echo" atau bisa menggunakan perintah "git add(namefile)"
-![ss 2](https://user-images.githubusercontent.com/115520278/195978468-dcd0928a-dbaf-4377-9437-9c513f6be765.PNG)
+
+   ![ss 2](https://user-images.githubusercontent.com/115520278/195978468-dcd0928a-dbaf-4377-9437-9c513f6be765.PNG)
 
 5. Seperti ini tampilannya jika file berhasil dibuat
 
