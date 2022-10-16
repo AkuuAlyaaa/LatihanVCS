@@ -11,11 +11,11 @@ KELAS   : TI.22.B1
 2. Kemudian masuk ke GIT Bash lalu lakukan konfigurasi dengan memasukkan username dan email
 ![SCREENSHOT](https://user-images.githubusercontent.com/115520278/195978317-964d4d93-bc2e-4825-bf75-beaf6f6771ff.PNG)
 
-3. Buat direktori dengan perintah "mkdir" dan gunakan perintah "cd" untuk masuk ke direktorinya, lalu perintah "git init" untuk membuat repository lokal.
+3. Buat direktori dengan perintah "mkdir" dan gunakan perintah "cd" untuk masuk ke direktorinya.
 
    ![ss](https://user-images.githubusercontent.com/115520278/195978419-467be80e-130a-4550-bd18-c35f08951c19.PNG)
 
-4. Buat file readme menggunakan perintah "echo" atau bisa menggunakan perintah "git add(namefile)"
+4. Klik perintah "git init" untuk membuat repository lokal,lalu buat file readme menggunakan perintah "echo" atau bisa menggunakan perintah "git add(namefile)"
 ![ss 2](https://user-images.githubusercontent.com/115520278/195978468-dcd0928a-dbaf-4377-9437-9c513f6be765.PNG)
 
 5. Seperti ini tampilannya jika file berhasil dibuat
